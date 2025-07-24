@@ -13,7 +13,7 @@ struct faculty
 {
 char *name;
 char *id;
-
+char course code;
 
 } faculty;
 
